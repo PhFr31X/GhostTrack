@@ -20,7 +20,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
+git clone https://github.com/PhFr31X/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
